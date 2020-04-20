@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=gameOverScreen
+comment0.text=\n\ Write\ a\ description\ of\ class\ gameOverScreen\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=score
+comment1.target=gameOverScreen(int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ gameOverScreen.\n\ \n
+comment2.params=s\ f
+comment2.target=void\ appendFile(java.lang.String,\ java.io.File)
+numComments=3

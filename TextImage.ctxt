@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TextImage
+comment0.text=\n\ Write\ a\ description\ of\ class\ TextImage\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ TextImage\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=text\ size\ foreground\ background
+comment2.target=TextImage(java.lang.String,\ int,\ greenfoot.Color,\ greenfoot.Color)
+comment3.params=clickStatus
+comment3.target=void\ setClicked(boolean)
+comment4.params=
+comment4.target=boolean\ isClicked()
+numComments=5

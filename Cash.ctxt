@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Cash
+comment0.text=\n\ Write\ a\ description\ of\ class\ Money\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=value\ filename
+comment2.target=Cash(int,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=java.lang.String\ getItemName()
+comment5.params=
+comment5.target=java.lang.String\ getItemDescription()
+comment6.params=
+comment6.target=int\ getValue()
+comment7.params=
+comment7.target=void\ makeChanges()
+numComments=8

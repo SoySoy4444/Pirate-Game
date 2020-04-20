@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=SetupScreen
+comment0.text=\n\ Write\ a\ description\ of\ class\ SetupScreen\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=SetupScreen()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ SetupScreen.\n\ \n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Press\ space\ OR\ press\ button\ to\ add\ new\ item\ (custom\ &\ semiCustom)\n\ Press\ backspace\ OR\ press\ buton\ to\ delete\ item\ (custom\ &\ semiCustom)\n
+comment3.params=itemFill\ cashFill
+comment3.target=void\ changeButtons(boolean,\ boolean)
+comment4.params=
+comment4.target=void\ randomlyFillItems()
+comment5.params=
+comment5.target=void\ setUpCash()
+comment6.params=
+comment6.target=void\ randomlyFillCash()
+comment7.params=
+comment7.target=void\ setUpItem()
+numComments=8

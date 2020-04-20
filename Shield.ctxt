@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Shield
+comment0.text=\n\ Write\ a\ description\ of\ class\ Shield\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Shield\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=Shield()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=java.lang.String\ getItemDescription()
+comment5.params=
+comment5.target=void\ makeChanges()
+numComments=6

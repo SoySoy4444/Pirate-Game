@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Grid
+comment0.text=\n\ Write\ a\ description\ of\ class\ Grid\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=NUM_ROWS\ NUM_COLS
+comment2.target=Grid(int,\ int)
+comment3.params=row\ col
+comment3.target=Items\ getElement(int,\ int)
+comment4.params=row\ col\ item
+comment4.target=void\ setElement(int,\ int,\ Items)
+comment5.params=
+comment5.target=Items[][]\ getGrid()
+comment6.params=alpha
+comment6.target=int\ getRowFromAlpha(char)
+comment7.params=num
+comment7.target=int\ getColFromNum(char)
+comment8.params=
+comment8.target=void\ printGrid()
+comment9.params=item\ row\ col
+comment9.target=void\ addItem(Items,\ int,\ int)
+comment9.text=\n\ \ \ \ public\ void\ printGrid(ArrayList<Items>\ itemsList,\ ArrayList<String>\ coordinatesList)\n\ \ \ \ {\n\ \ \ \ \ \ \ \ for(Items\ item\:\ itemsList)\ {\n\ \ \ \ \ \ \ \ \ \ \ \ for(String\ coordinate\:\ coordinatesList)\ {\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ int\ row\ \=\ getRowFromAlpha(coordinate.charAt(0));\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ int\ col\ \=\ getColFromNum(coordinate.charAt(1));\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ addItem(item,\ row,\ col);\n\ \ \ \ \ \ \ \ \ \ \ \ }\n\ \ \ \ \ \ \ \ }\n\ \ \ \ }\n
+numComments=10

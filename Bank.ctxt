@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Bank
+comment0.text=\n\ Write\ a\ description\ of\ class\ Bank\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Bank\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=java.lang.String\ getItemDescription()
+comment4.params=
+comment4.target=void\ makeChanges()
+numComments=5
